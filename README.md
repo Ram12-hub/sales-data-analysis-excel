@@ -63,6 +63,8 @@ The data spans across multiple regions and product lines, providing a good base 
 - The dashboard helps slice data by country, product, and category instantly  
 
 ---
+## 📸 Dashboard Previews
+![image](https://github.com/user-attachments/assets/010edcf1-ebad-4e04-934c-6719c4729674)
 
 ## 🛠️ Tools Used
 

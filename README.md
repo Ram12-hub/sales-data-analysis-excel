@@ -2,15 +2,15 @@
 Excel-based sales data analysis project featuring interactive dashboards, sales trends, and performance insights across regions and products.
 
 
-# 🛍️ Sales Data Analysis (Excel Project)
+# Sales Data Analysis (Excel Project)
 
-## 📊 About the Project
+## About the Project
 
 This project is an end-to-end sales data analysis built entirely in Excel. It involves cleaning and analyzing sales records, identifying top-performing regions and products, and building an interactive dashboard for quick insights. The goal was to simulate a real-world business reporting scenario where stakeholders need to make data-driven decisions based on sales performance.
 
 ---
 
-## 📁 What’s in the Dataset?
+## What’s in the Dataset?
 
 The dataset contains over 1,800 records with details like:
 - Country of sale
@@ -24,7 +24,7 @@ The data spans across multiple regions and product lines, providing a good base 
 
 ---
 
-## 🎯 Key Goals
+## Key Goals
 
 - Analyze sales trends month by month
 - Identify best-selling products and regions
@@ -34,7 +34,7 @@ The data spans across multiple regions and product lines, providing a good base 
 
 ---
 
-## 🔍 What I Did
+## What I Did
 
 - Used **Pivot Tables** to summarize data efficiently  
 - Applied **Conditional Formatting** to highlight key figures  
@@ -44,7 +44,7 @@ The data spans across multiple regions and product lines, providing a good base 
 
 ---
 
-## 📌 Breakdown of Sheets
+## Breakdown of Sheets
 
 - **Data**: Raw sales data with all details  
 - **Dashboard**: Final visual dashboard with slicers  
@@ -55,7 +55,7 @@ The data spans across multiple regions and product lines, providing a good base 
 
 ---
 
-## 📈 Insights Gained
+## Insights Gained
 
 - Australia and India are the top regions by revenue  
 - “Almond Choco” and “Smooth Silky Salty” were the best-selling products  
@@ -63,10 +63,10 @@ The data spans across multiple regions and product lines, providing a good base 
 - The dashboard helps slice data by country, product, and category instantly  
 
 ---
-## 📸 Dashboard Preview
+## Dashboard Preview
 ![image](https://github.com/user-attachments/assets/010edcf1-ebad-4e04-934c-6719c4729674)
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Microsoft Excel  
   - Pivot Tables  
@@ -76,7 +76,7 @@ The data spans across multiple regions and product lines, providing a good base 
 
 ---
 
-## 🧑‍💼 Why This Project Matters
+## Why This Project Matters
 
 This project demonstrates how Excel can be a powerful tool for business analytics and decision-making. It’s especially useful for companies that rely on fast, clear reporting without needing complex tools or programming.
 
